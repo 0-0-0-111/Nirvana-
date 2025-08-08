@@ -141,5 +141,4 @@
     <p>© 2025 Nirvana | Learning to Code</p>
   </footer>
 </body>
-</html># Nirvana-
-A simple developer portfolio page
+</html>
